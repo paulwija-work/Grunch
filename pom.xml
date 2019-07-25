@@ -17,7 +17,7 @@
     <dependency>
       <groupId>org.neo4j</groupId>
       <artifactId>neo4j-security-enterprise</artifactId>
-      <version>(,3.4.6)</version>
+      <version>3.4.13</version>
     </dependency>
     <dependency>
       <groupId>io.vertx</groupId>
