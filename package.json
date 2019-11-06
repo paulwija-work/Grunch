@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "react-native": "0.60.4"
+    "slow-zone": "2.0.3"
   }
 }
